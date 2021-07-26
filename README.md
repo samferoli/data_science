@@ -5,3 +5,18 @@
 </p>
 
 # Samuel Oliveira
+<sub>Data Scientist Center</sub>
+
+**Background in:** Python
+
+**Links:**
+
+* [LinkedIn](https://www.linkedin.com/in/samuel-oliveira-18a6a79b/)
+
+
+## Projetos:
+Veja os tutoriais publicados do Sigmoidal:
+
+* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+
+---
